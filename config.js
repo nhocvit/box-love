@@ -1,7 +1,7 @@
 const CONFIG = {
-    titleWeb: "Gửi em",
+    titleWeb: "For Minh",
 
-    background: "background.jpg",
+    background: "z6312296276902_3398bdc7281ced4e33aa71b328d9dd55.jpg",
 
     min1: "min1.jfif",
     min2: "min2.jpg",
