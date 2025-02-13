@@ -17,3 +17,4 @@ const CONFIG = {
     max5: "images/z6312296896223_29fd7c45a60d1d5dc6565086180210c7.jpg",
     max6: "images/z6312296896377_9639a92c6f221a65735c0396cd7e874f.jpg", 
 }
+css/mystyle.css
